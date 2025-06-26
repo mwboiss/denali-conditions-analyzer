@@ -1,0 +1,47 @@
+
+# Secret credentials
+.env
+*.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs and outputs
+*.log
+*.out
+
+# Compiled shared libraries
+*.so
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
